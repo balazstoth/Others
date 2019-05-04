@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Supplements>
+  <Supplement>
+    <Name>asd</Name>
+    <Protein>2,0</Protein>
+    <CarbonHydrate>2,0</CarbonHydrate>
+    <Fat>2,0</Fat>
+    <Calorie>2</Calorie>
+    <Fiber>0,0</Fiber>
+    <GI>Low</GI>
+  </Supplement>
+</Supplements>

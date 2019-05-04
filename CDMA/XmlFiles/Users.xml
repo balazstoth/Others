@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <Name>Balázs</Name>
+    <Password>teszt</Password>
+    <Diet>
+      <Age>20</Age>
+      <CurrentWeight>80</CurrentWeight>
+      <GoalWeight>80</GoalWeight>
+      <Gender>Male</Gender>
+      <Height>160</Height>
+      <Start>2017.02.07</Start>
+      <Base>Weight</Base>
+      <Weeks>0</Weeks>
+      <Activity>None</Activity>
+      <CalorieBase>2191</CalorieBase>
+      <CalorieModify>0</CalorieModify>
+      <DescCalorie>false</DescCalorie>
+    </Diet>
+  </User>
+</Users>
